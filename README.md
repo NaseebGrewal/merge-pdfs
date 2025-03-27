@@ -2,6 +2,8 @@
 
 A simple, user-friendly Flask application for merging multiple PDF files into a single PDF.
 
+<img src="https://github.com/NaseebGrewal/merge-pdfs/blob/main/assets/UI.png" alt="Merge Pdfs UI" width="100%" />
+
 ## Project Overview
 
 This project allows users to upload several PDF files through a web interface, merges them using [PyPDF2](https://pypi.org/project/PyPDF2/), and returns the merged PDF for download. The application is containerized using a [Dockerfile](Dockerfile) and is built with simplicity and ease-of-use in mind.
