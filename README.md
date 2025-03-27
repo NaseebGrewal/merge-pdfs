@@ -22,8 +22,8 @@ This project allows users to upload several PDF files through a web interface, m
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/Merge-pdfs.git
-    cd Merge-pdfs/merge-pdfs
+    git clone https://github.com/NaseebGrewal/merge-pdfs.git
+    cd merge-pdfs/merge-pdfs
     ```
 
 2. **Create a virtual environment and install dependencies:**
